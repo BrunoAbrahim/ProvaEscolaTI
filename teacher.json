@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "ProvaEscolaTI",
+  "repo_url": "https://github.com/BrunoAbrahim/ProvaEscolaTI",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/BrunoAbrahim/ProvaEscolaTI/issues/1",
+  "gerado_em": "2026-10-07T23:50:54+00:00",
+  "fechada_em": "2026-10-07T23:50:25Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "BrunoAbrahim",
+    "ra": "23000333",
+    "nome": "BrunoAbrahim"
+  },
+  "variante": {
+    "slug": "ProvaEscolaTI",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 600,
+    "FRACAO_MINUTOS": 30,
+    "TETO_DIARIO_CENTAVOS": 5000,
+    "PORTA_SERVICO": 8005,
+    "TOLERANCIA_MINUTOS": 0
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:17:20Z",
+    "ultimo_push": "2026-10-07T20:43:53-03:00"
+  },
+  "commits": {
+    "total": 9,
+    "autores": [
+      "BrunoAbrahim"
+    ],
+    "primeiro": "2026-10-07T19:07:46-03:00",
+    "ultimo": "2026-10-07T20:43:53-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 15
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 1
+  }
+}
